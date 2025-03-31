@@ -1,5 +1,5 @@
 # LS-DETR
-LS-DETR: Lightweight Transformer for Object Detection in Forward-looking Sonar Images
+LS-DETR: Lightweight Transformer for Object Detection in Forward-looking Sonar Images.
 
 ## Experiment environment 
 * python: 3.8.16  
@@ -10,8 +10,8 @@ LS-DETR: Lightweight Transformer for Object Detection in Forward-looking Sonar I
 * mmengine: 0.9.0  
 
 ## Environment configuration
-1. Run `pip uninstall ultralytics` to uninstall the ultralytics library installed in the environment
+1. Run `pip uninstall ultralytics` to uninstall the ultralytics library installed in the environment.
 
 2. To use the official CLI runtime, install the ultralytics library by running `python setup.py develop`.
 
-3. Refer to requirements.txt for additional packages
+3. Refer to requirements.txt for additional packages.
