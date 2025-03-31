@@ -1,5 +1,7 @@
 # LS-DETR
 LS-DETR: Lightweight Transformer for Object Detection in Forward-looking Sonar Images.
+![总体结构](https://github.com/user-attachments/assets/5559144c-9a93-4a2a-b55b-8ac0f73a3980)
+
 
 ## Experiment environment 
 * python: 3.8.16  
